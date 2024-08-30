@@ -1,0 +1,396 @@
+[
+{
+    "id": "seperator00",
+    "title": "Data Engineering Essentials",
+    "class": "seperator"
+},
+{
+	"id": "module00",
+	"title": "Python Essentials for Data Engineers",
+	"subtopics": [
+		{
+			"id": "link",
+			"title": "Python Development Environment Setup",
+			"url": "https://docs.google.com/document/d/1As_yq91cJCN9yFfj4QK40eaEIbXW4xxbssxP1doY5L0/preview"
+		},
+		{
+			"id": "notes",
+			"title": "Study Material",
+			"links": [
+				{
+					"id": "externallink",
+					"title": "Python Notes for Professionals - Ebook",
+					"url": "https://drive.google.com/file/d/1jwsUw8EEuRY_8MlnD4N9S-U89R78HywQ/view?usp=sharing"
+				},
+				{
+					"id": "assignment-1",
+					"title": "[Video] - Python for Begineers",
+					"url": "https://www.youtube.com/embed/_uQrJ0TkZlc?si=2jQDHYRkAdGeVVLn"
+				}
+			]
+		},		
+		{
+			"id": "quiz",
+			"title": "Quiz",
+			"links": [
+				{
+					"id": "main-quiz-01",
+					"title": "Language Fundamentals - Quiz",
+					"url": "https://docs.google.com/forms/d/e/1FAIpQLSewCs9F5Ueh6KkDQnOFz_o8wqH_61bAIX8S7NixYoXpozNIQA/viewform?usp=sf_link"
+				},
+				{
+					"id": "main-quiz-02",
+					"title": "Inbuilt Data Structures - Quiz",
+					"url": "https://docs.google.com/forms/d/e/1FAIpQLScPJm5IF-vEBp3DcnG3Nuw_UNRtBWWwLTOC3PPoT2pCJ2bvcw/viewform?usp=sf_link"
+				}
+			]
+		}
+	]
+},
+{
+	"id": "seperator01",
+	"title": "Data Engineering Concepts and Ecosystem",
+	"class": "seperator"
+}, 
+{
+	"id": "module01",
+	"title": "Getting Started with Big Data",
+	"subtopics": [{
+			"id": "notes",
+			"title": "Study Material",
+			"links": [{
+					"id": "study-1",
+					"title": "Big Data Project Phases",
+					"url": "https://docs.google.com/document/d/1-hGOR3sAXduS0MbQ4Oyszy8SarTkqiAdmNjLdVBMbvo/preview"
+				}
+			]
+		}, {
+			"id": "assignments",
+			"title": "Assignments",
+			"links": [{
+					"id": "assignment-1",
+					"title": "Assignment 1",
+					"url": "https://docs.google.com/document/d/1GXjAhb5pfLHsOZl2reg7bFtzzajeioqBYEKyRiX6NgQ/edit?usp=sharing"
+				}, {
+					"id": "assignment-2",
+					"title": "Assignment 2",
+					"url": ""
+				}
+			]
+		}, 
+		{
+			"id": "quiz",
+			"title": "Quiz",
+			"links": [
+				{
+					"id": "main-quiz-01",
+					"title": "Big Data Engineering Concepts and Ecosystem",
+					"url": "https://docs.google.com/forms/d/e/1FAIpQLSfgecOfvzO9enYatQNf66lj52V6_7TNWLNE384509h_F-AkQw/viewform?usp=sf_link"
+				}
+			]
+		}
+	]
+}, {
+        "id": "seperator02",
+        "title": "Azure Essentials",
+        "class": "seperator"
+    }, {
+        "id": "module02",
+        "title": "Microsoft Azure and Storage Services",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/1nE9xj1lmhqDI9GnWhY1mU7wosG5ghl5tj5Y4YDOITIk/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2iAM33Q5UhUWLVy4Y_6dhXA7UKMliNYrd27LuD5vKOTinag/viewform?usp=sf_link"
+            }
+        ]
+    }, {
+        "id": "seperator03",
+        "title": "Microsoft Azure Databricks",
+        "class": "seperator"
+    }, {
+        "id": "module03",
+        "title": "Exploring Azure Databricks Workspace",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, 
+			{
+                "id": "notes",
+                "title": "Sign Up for Databricks Community Edition",
+                "url": "https://docs.google.com/document/d/1F7_j-kTkU4bRKr5-dJvO64Lomv1UTiHdaM7V09Z_JAw/preview"
+            },
+			{
+                "id": "quiz",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSckBDG81q3zO0G7OtihDjgojACHItiA6MRQyt4e8K3ZLfraQw/viewform?usp=sf_link"
+            }
+        ]
+    }, {
+        "id": "module04",
+        "title": "Exploring Spark Core Concepts and RDD's",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module05",
+        "title": "Exploring Spark SQL (DataFrame + Dataset)",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module06",
+        "title": "Spark Architecture and Deployment",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module07",
+        "title": "Exploring Hive Metastore - Legacy",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module09",
+        "title": "Databricks Lakehouse Platform",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Databricks Lakehouse Platform and Delta Lake",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module10",
+        "title": "Medallion Architecture - (Bronze, Silver and Gold)",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Medallion Architecture",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module11",
+        "title": "Workflow and Jobs",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module12",
+        "title": "ELT with Spark SQL and Python",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module13",
+        "title": "Incremental Data Ingestion",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module14",
+        "title": "Delta Live Tables",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module15",
+        "title": "Data Visualization and Dashboard",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module16",
+        "title": "Qyert Alert and Monitoring",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module17",
+        "title": "Azure and Databricks CLI",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module18",
+        "title": "Performance Tuning with Databricks",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "study-2",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }
+]

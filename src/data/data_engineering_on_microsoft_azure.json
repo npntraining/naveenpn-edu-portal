@@ -1,0 +1,557 @@
+[{
+        "id": "seperator00",
+        "title": "Course Essentials",
+        "class": "seperator"
+    }, {
+        "id": "module0",
+        "title": "Program Overview",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Installation Guides",
+                "links": [{
+                        "id": "module04-inline-link-01",
+                        "title": "Spark/PySpark Local Development Environment Setup",
+                        "url": "https://docs.google.com/document/d/15rcR1ByAkpsNksrUjcRDf46hXbve8Q9R4lrPNAEM1Po/pub?embedded=true"
+                    }, {
+                        "id": "module04-inline-link-02",
+                        "title": "Import Development Workspace",
+                        "url": "https://docs.google.com/document/d/1Yrk5ERJwNP4gii9l-NE-EzQm4-fLosbeyUMw-qdpxM0/preview"
+                    },{
+						"id": "module04-inline-link-03",
+						"title": "Sign Up for Databricks Community Edition",
+						"url": "https://docs.google.com/document/d/1F7_j-kTkU4bRKr5-dJvO64Lomv1UTiHdaM7V09Z_JAw/preview"
+					},{
+						"id": "module04-inline-link-04",
+						"title": "Test Document",
+						"url": "https://onedrive.live.com/embed?resid=9BE92755E91E0E7D%21139965&amp;authkey=!ALWDUBQQpdtfFx0&amp;em=2w"
+					}
+                ]
+            }, {
+                "id": "module0-external-link-02",
+                "title": "Big Data Engineering Git Repository",
+                "url": "https://github.com/naveenpn-trainer/big-data-engineering.git"
+            }
+			
+        ]
+    }, {
+        "id": "module0a",
+        "title": "Python Essentials for Data Engineers",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module0a-notes-external-link-01",
+                        "title": "Python Notes for Professionals - Ebook",
+                        "url": "https://drive.usercontent.google.com/u/0/uc?id=1jwsUw8EEuRY_8MlnD4N9S-U89R78HywQ&export=download"
+                    }, {
+                        "id": "module0a-notes-inline-link-02",
+                        "title": "[Video] - Python for Begineers",
+                        "url": "https://www.youtube.com/embed/_uQrJ0TkZlc?si=2jQDHYRkAdGeVVLn&rel=0"
+                    }, {
+                        "id": "module0a-notes-inline-link-03",
+                        "title": "Most Asked Python Interview Questions",
+                        "url": "https://docs.google.com/document/d/1CQkqs45M_ycCMHpuGE7BBGrT5UNmtayC9PTMQl_wYvA/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "module0a-quiz",
+                "title": "Quiz",
+                "links": [{
+                        "id": "module0a-quiz-quiz-01",
+                        "title": "Language Fundamentals - Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSewCs9F5Ueh6KkDQnOFz_o8wqH_61bAIX8S7NixYoXpozNIQA/viewform?usp=sf_link"
+                    }, {
+                        "id": "module0a-quiz-quiz-02",
+                        "title": "Inbuilt Data Structures - Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLScPJm5IF-vEBp3DcnG3Nuw_UNRtBWWwLTOC3PPoT2pCJ2bvcw/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "module0b",
+        "title": "Version Control System",
+        "subtopics": [{
+                "id": "module0b-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module0b-notes-inline-link-01",
+                        "title": "[Video] - Version Control System",
+                        "url": "https://www.youtube.com/embed/Yc8sCSeMhi4?si=ZFeDTOBgaU6N5ute"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "module01",
+        "title": "Data Engineering Concepts and Ecosystem",
+        "subtopics": [{
+                "id": "module01-notes",
+                "title": "Study Material",
+                "links": [
+					{
+                        "id": "module01-notes-inline-link-10",
+                        "title": "Introduction to Big Data",
+                        "url": "https://docs.google.com/document/d/1P9TgxBNS5VA1lO0e66tMARUhQ3blvNJur7YL1G6ALBY/pub?embedded=true"
+                    },
+					{
+                        "id": "module01-notes-inline-link-11",
+                        "title": "What is Data Engineering",
+                        "url": "https://docs.google.com/document/d/1vuEAd89cDiseqR9idFXPxukCafXwrAAy0VjmiIV959o/pub?embedded=true"
+                    },
+					{
+                        "id": "module01-notes-inline-link-12",
+                        "title": "Important Data Engineering Terminologies",
+                        "url": "https://docs.google.com/document/d/1vuEAd89cDiseqR9idFXPxukCafXwrAAy0VjmiIV959o/pub?embedded=true"
+                    }, {
+                        "id": "module01-notes-inline-link-13",
+                        "title": "Hadoop 2.x and YARN Architecture",
+                        "url": "https://docs.google.com/document/d/1gkKXX43eghTo0wYcLTt5xw9NIcf2HDYHxgOJ0M2c6wI/pub?embedded=true"
+                    }, {
+                        "id": "module01-notes-inline-link-20",
+                        "title": "Azure Data Engineering Services",
+                        "url": "https://docs.google.com/document/d/1aZEcTXYKYob_95tpwKWiCB9FVXHkYlmXoaz_WAgyU00/pub?embedded=true"
+                    }, {
+                        "id": "module01-notes-inline-link-50",
+                        "title": "Data Storage Types",
+                        "url": "https://docs.google.com/document/d/1p7Z38fL2IvN-8T0X3PRfFjViA43_oTyHmTjR63K_s0k/pub?embedded=true"
+                    },{
+                        "id": "module01-notes-inline-link-51",
+                        "title": "Big Data Project Phases",
+                        "url": "https://docs.google.com/document/d/1-hGOR3sAXduS0MbQ4Oyszy8SarTkqiAdmNjLdVBMbvo/edit?usp=sharing&embedded=true&rm=demo"
+                    }, {
+                        "id": "module01-notes-inline-link-52",
+                        "title": "Integration of Data Management Architecture",
+                        "url": "https://docs.google.com/document/d/1oCQaMH_b2SKdrYCjHWQfZKiJoGqAbjzAtLjNGQKl7sM/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "module01-quiz",
+                "title": "Quiz",
+                "links": [{
+                        "id": "module01-quiz-inline-01",
+                        "title": "Big Data Engineering Concepts and Ecosystem",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfgecOfvzO9enYatQNf66lj52V6_7TNWLNE384509h_F-AkQw/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "seperator02",
+        "title": "Microsoft Azure Databricks",
+        "class": "seperator"
+    }, {
+        "id": "module02",
+        "title": "Exploring Microsoft Azure and Storage Services",
+        "subtopics": [{
+                "id": "module02-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module02-notes-inline-link-01",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/1MesSod1LdjAhk0gNDmueKfML-zqiLmx3Am_PQiQTMuI/pub?embedded=true"
+                    }, {
+                        "id": "module02-notes-inline-link-02",
+                        "title": "[Hands on] - Connecting to ADLS Storage Account",
+                        "url": "https://docs.google.com/document/d/1k8sXlz9iPIZIvxyDBZjZyCnVyn6Sdf1xAER4NN_7TOc/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "module02-quiz",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2iAM33Q5UhUWLVy4Y_6dhXA7UKMliNYrd27LuD5vKOTinag/viewform?usp=sf_link"
+            }
+        ]
+    }, {
+        "id": "module03",
+        "title": "Exploring Azure Databricks Platform",
+        "subtopics": [{
+                "id": "module03-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module03-notes-inline-link-01",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/1tFx5TqCqbntLUbN5XxU5T1c_DSNeCMpG8sCUmhJO43o/preview"
+                    }, {
+                        "id": "module03-notes-inline-link-02",
+                        "title": "Databricks Magic Commands",
+                        "url": "https://docs.google.com/document/d/1pnGAtoc86WLgvlTeM2lp8L1WY_BBAgaXZL9ThADg8IY/pub?embedded=true"
+                    }
+                ]
+            }, 
+			{
+                "id": "module03-interview-qa-inline-link-01",
+                "title": "Interview Preparation",
+                "url": "https://docs.google.com/document/d/1-5tLZ1YvzklBltyjYvexZP4JpXq3815b8V8De2I3KWU/edit?usp=sharing&embedded=true&rm=demo"
+            },
+			{
+                "id": "module03-quiz-inline-link-01",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSckBDG81q3zO0G7OtihDjgojACHItiA6MRQyt4e8K3ZLfraQw/viewform?usp=sf_link"
+            }
+        ]
+    }, {
+        "id": "module04",
+        "title": "Apache Spark Core Concepts and RDD's",
+        "subtopics": [{
+                "id": "module04-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module04-notes-inline-link-01",
+                        "title": "Understanding Apache Spark",
+                        "url": "https://docs.google.com/document/d/1UQBwZq_fVVaLj5QTukO6uMhi7e4lSdHqBdoIbrkhljI/pub?embedded=true"
+                    }, {
+                        "id": "module04-notes-inline-link-02",
+                        "title": "Exploring Spark Core API - RDD's",
+                        "url": "https://docs.google.com/document/d/10mSOwB676aTMxTQSpvdi64AE-ZY2hMzkQzLZkTiYFiI/pub?embedded=true"
+                    }, {
+                        "id": "module04-notes-inline-link-05",
+                        "title": "A Comprehensive Guide - PySpark RDD Operations",
+                        "url": "https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4331115056485192/1653136760829698/6836536383695527/latest.html"
+                    }
+                ]
+            }, {
+                "id": "module04-quiz",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLScEsmOR7uH_hQs5rqzuUlYW6btDVbYI-wK9BbjHIZjLaccVvQ/viewform?usp=sf_link"
+            }
+        ]
+    }, {
+        "id": "module05",
+        "title": "Exploring Spark SQL (DataFrame + Dataset)",
+        "subtopics": [{
+                "id": "module05-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module05-notes-inline-link-01",
+                        "title": "Notes",
+                        "url": "https://docs.google.com/document/d/1rvzUGM09oPUND9Xohla7WZWJp6VOuleWV-ls_FAncKE/pub?embedded=true"
+                    }, {
+                        "id": "module04-notes-inline-link-05",
+                        "title": "Learn with examples - Spark SQL",
+                        "url": "https://docs.google.com/document/d/1PoryOXyABKxOapl9UGUyKx_Y_xTMuQLC365l5q_z3qs/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "module05-quiz",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLScTigKgG-tdip-kRhYljJ6qn8CSglWpzLpE9uCaJ_mYoffsAQ/viewform?usp=sf_link"
+            }
+        ]
+    }, {
+        "id": "module06",
+        "title": "Spark Architecture and Deployment",
+        "subtopics": [{
+                "id": "module06-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module06-notes-inline-link-01",
+                        "title": "Submitting Spark Application",
+                        "url": "https://docs.google.com/document/d/1Jbp749cCwPV_H-sV4gutIkL7Ev8mR5cx6zCBGgKhxVY/edit?usp=sharing&embedded=true&rm=demo"
+                    }
+                ]
+            }, {
+                "id": "module06-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module07",
+        "title": "Spark Performance Tuning",
+        "subtopics": [{
+                "id": "module07-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module07-notes-inline-link-01",
+                        "title": "Notes",
+                        "url": "https://docs.google.com/document/d/1ympXHnIQTVKHmOprEP9U777e2iTR4G8OLnJnZp0vn-c/edit?usp=sharing&embedded=true&rm=demo"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module08",
+        "title": "Unified Data Governance with Unity Catalog",
+        "subtopics": [{
+                "id": "module08-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module08-notes-inline-link-01",
+                        "title": "Notes",
+                        "url": "https://docs.google.com/document/d/11HqLyliDqXotHIzp9tV5V66ZOFm9YapE1R9moD6UFaM/edit?usp=sharing&embedded=true&rm=demo"
+                    }
+                ]
+            }, {
+                "id": "module08-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module09",
+        "title": "The Databricks Lakehouse Platform",
+        "subtopics": [{
+                "id": "module09-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module09-notes-inline-link-01",
+                        "title": "Notes",
+                        "url": "https://docs.google.com/document/d/1juKzJW_qun7l7Au9P6mLqjROFI9VsZvZEzBdrchpp0c/edit?usp=sharing&embedded=true&rm=demo"
+                    }
+                ]
+            }, {
+                "id": "module09-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module10",
+        "title": "Data Management with Medallion Architecture",
+        "subtopics": [{
+                "id": "module10-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module10-notes-inline-link-01",
+                        "title": "Notes",
+                        "url": "https://docs.google.com/document/d/1YtLe3x_S5gwUcL02ic9SaTMYShj5H05G_NB-B5B-zrc/edit?usp=sharing&embedded=true&rm=demo"
+                    }
+                ]
+            }, {
+                "id": "quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module11",
+        "title": "Workflow and Jobs",
+        "subtopics": [{
+                "id": "module11-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module11-notes-inline-link",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/112gX1szEeb3XubDX9uIdarbAaotl2sg3M7_IZTBxhWc/edit?usp=sharing&embedded=true&rm=demo"
+                    }
+                ]
+            }, {
+                "id": "module11-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module12",
+        "title": "Extract, Load and Transform with Spark SQL and Python",
+        "subtopics": [{
+                "id": "module12-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module12-notes-inline-link-01",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "module12-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module13",
+        "title": "Incremental Data Ingestion",
+        "subtopics": [{
+                "id": "module13-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module13-notes-inline-link-01",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "module13-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "module14",
+        "title": "Delta Live Tables",
+        "subtopics": [{
+                "id": "module14-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module14-notes-inline-link-01",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/<ID>/preview"
+                    }
+                ]
+            }, {
+                "id": "module14-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, 
+{
+	"id": "seperator00",
+	"title": "Databricks Certified Data Engineer Associate Certificationn",
+	"class": "seperator"
+}, {
+	"id": "module-Certification",
+	"title": "Certification Preparation",
+	"subtopics": [{
+			"id": "module-Certification-external-link-01",
+			"title": "Certification Link",
+			"url": "https://www.databricks.com/learn/certification/data-engineer-associate"
+		}, {
+			"id": "module-Certification-notes",
+			"title": "Study Material",
+			"links": [{
+					"id": "module-Certification-notes-inline-link-01",
+					"title": "Prepartion Guide",
+					"url": "https://docs.google.com/document/d/121a775fp35gsNvLNSHHONsS5ObZKkqS1WamMkKr4Swc/preview"
+				}
+
+			]
+		}, {
+			"id": "module-Certification-quiz",
+			"title": "Quiz",
+			"links": [{
+					"id": "module-Certification-quiz-02",
+					"title": "Practice Exam 02",
+					"url": "https://docs.google.com/forms/d/e/1FAIpQLSeqDaAxOlBNAJo_70eSGqJgAKij0gAGshMyGws7V1H9LH7aDQ/viewform?usp=sf_link"
+				}
+			]
+		}
+	]
+}, {
+	"id": "seperator04",
+	"title": "Azure Data Factory",
+	"class": "seperator"
+}, {
+	"id": "module01",
+	"title": "Getting Started with Azure Data Factory"
+}, {
+	"id": "module02",
+	"title": "Azure Data Factory Git Integration"
+}, {
+	"id": "module03",
+	"title": "Data Movement Activities"
+}, {
+	"id": "module04",
+	"title": "Control Flow Activities"
+}, {
+	"id": "module05",
+	"title": "Data Transformation Activities"
+}, {
+	"id": "seperator00",
+	"title": "Azure Synapse Analytics",
+	"class": "seperator"
+},
+{
+	"id": "seperator00",
+	"title": "Data Engineering Interview Preparation",
+	"class": "seperator"
+}, 
+{
+	"id": "module-interview-preparation-01",
+	"title": "Big Data Hadoop and Spark",
+	"subtopics": [{
+			"id": "module-interview-preparation-01-notes",
+			"title": "Interview QA",
+			"links": [{
+					"id": "module-interview-preparation-01-notes-inline-link-03",
+					"title": "Hadoop QA",
+					"url": "https://docs.google.com/document/d/121a775fp35gsNvLNSHHONsS5ObZKkqS1WamMkKr4Swc/preview"
+				}, {
+					"id": "module-interview-preparation-01-notes-inline-link-04",
+					"title": "Apache Spark Core Concepts QA",
+					"url": "https://docs.google.com/document/d/1Zo4NMDKMd-I57RlIp0DJneX-w4aeyNee-Q76OSui-Es/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"id": "pyspark-challenges",
+			"title": "PySpark Code Challenges",
+			"links": [{
+					"id": "pyspark-challenge-link-01",
+					"title": "PySpark Challenge 01",
+					"url": "https://docs.google.com/document/d/1iHhgpeRO2Owh4l0IGKNOSOmG6z3SnEZQ0-FaRqSlJCE/preview"
+				}, {
+					"id": "pyspark-challenge-link-02",
+					"title": "PySpark Challenge 02",
+					"url": "https://docs.google.com/document/d/1sXAq3Rl8Vge4EMzhY2wHiEqISFktiptYzbX9e6RNWME/preview"
+				}, {
+					"id": "pyspark-challenge-link-03",
+					"title": "PySpark Challenge 03",
+					"url": "https://docs.google.com/document/d/1bY75j_2meMHWxpzfRPRT8S6PX-MSVNBFuwuCQBBxnv8/preview"
+				}, {
+					"id": "pyspark-challenge-link-04",
+					"title": "PySpark Challenge 04",
+					"url": "https://docs.google.com/document/d/1rJRoXttPU_9Ksy02syhXMZf5zfC0FxTxuDPbGewZ4AY/preview"
+				}, {
+					"id": "pyspark-challenge-link-05",
+					"title": "PySpark Challenge 05",
+					"url": "https://docs.google.com/document/d/1WL2zz3y890oIoS0N23DdzK2ztXz8dLQ1dyIoJtdprXk/preview"
+				}, {
+					"id": "pyspark-challenge-link-06",
+					"title": "PySpark Challenge 06",
+					"url": "https://docs.google.com/document/d/1WL2zz3y890oIoS0N23DdzK2ztXz8dLQ1dyIoJtdprXk/preview"
+				}, {
+					"id": "pyspark-challenge-link-07",
+					"title": "PySpark Challenge 07",
+					"url": "https://docs.google.com/document/d/1gyGKVDQmptn_lbNEP0DirVTrd6CfAs7tERzCaVa727A/preview"
+				}, {
+					"id": "pyspark-challenge-link-08",
+					"title": "PySpark Challenge 08",
+					"url": "https://docs.google.com/document/d//137_xc9xF0irxaqoEYT677oX7aU0mB0DgpmIa92P6CjY/preview"
+				}, {
+					"id": "pyspark-challenge-link-09",
+					"title": "PySpark Challenge 09",
+					"url": "https://docs.google.com/document/d/1zFk3tkoum3DXZPQXNIp0hf2s1wLytdkiUeg3vWZ_oTk/preview"
+				}, {
+					"id": "pyspark-challenge-link-10",
+					"title": "PySpark Challenge 10",
+					"url": "https://docs.google.com/document/d/1gKZ1ycqsV1gymFVa76AmExY-jUBd-EoDAvKrBiuiWy8/preview"
+				}
+			]
+		}
+	]
+},
+{
+	"id": "module-interview-preparation-02",
+	"title": "Company Technical Round",
+	"subtopics": [{
+			"id": "module-interview-preparation-02-notes",
+			"title": "Technical Rounds",
+			"links": [{
+					"id": "module-interview-preparation-01-notes-inline-link-01",
+					"title": "E&Y",
+					"url": "https://docs.google.com/document/d/1bbWRvMLHqvR30Wv7fLG7NY9Y8JGPTQehDm0Z2epEQGs/preview"
+				},{
+					"id": "module-interview-preparation-01-notes-inline-link-02",
+					"title": "Tiger Analytics",
+					"url": "https://docs.google.com/document/d/1DFDlZHq7jbfmfYgH4hMo8zwAKHi4aEvehd2V03RrUFQ/preview"
+				},{
+					"id": "module-interview-preparation-01-notes-inline-link-03",
+					"title": "Pwc",
+					"url": "https://docs.google.com/document/d/1KjIg2qlGbGBt2BrfI29-y3o2-tOfDUox77ZwCOo7RM4/preview"
+				},{
+					"id": "module-interview-preparation-01-notes-inline-link-04",
+					"title": "Flipkartnn",
+					"url": "https://docs.google.com/document/d/1Un0DQGFDo8PmMqigQGF9bjMyW8QQ4QuAdjO4GvLfz5M/preview"
+				}
+			]
+		}
+	]
+}
+]
